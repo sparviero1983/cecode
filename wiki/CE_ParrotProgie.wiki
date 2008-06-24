@@ -1,0 +1,28 @@
+#labels Featured,Phase-QA
+This file is to demonstrate the CE Installation method, with the included graphics and logo.
+
+= Introduction =
+
+The installer is made using Inno Setup: http://www.innosetup.com/isinfo.php
+
+The demo program is written in Python(2.5) by xheavenlyx.
+
+= Details =
+
+The Parrot method is explained here (as much as I could at 2am):
+
+A given number or series of numbers will be counted and then the output is incremented in the same way.
+
+*Example*:
+
+You enter the number 2113
+The output will be: one2 two1 one3 but it will be output(-ed?) as a normal integer. like: 122113
+
+If you enter the number of iterations, it will keep applying the parrot to consecutive out puts.
+
+For information see:
+
+http://www.crazyengineers.com/forum/ideas-knowledge-sharing-articles/2081-tough-puzzle-parrot-sequence-crack.html
+
+Originally from:
+http://www.archimedes-lab.org/
