@@ -27,9 +27,9 @@ It's a software that scans your movies, fetches data from IMDB or Rottentomaties
 
 Because I say you do.
 
-  *Don't you wan't to sort your *own* collection using your own criteria
+  * Don't you wan't to sort your *own* collection using your own criteria
   * Do you really like going online all the time to check who played what in what?
-  *Don't you want to know if you have another movie by Christopher Nolan in your collection that you still haven't watched?
+  * Don't you want to know if you have another movie by Christopher Nolan in your collection that you still haven't watched?
 
 Yes, you do.
 
