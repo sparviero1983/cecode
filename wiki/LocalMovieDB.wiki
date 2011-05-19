@@ -13,13 +13,13 @@ And then we came along to give you a better option... (Zombieland)
 
 It's a software that scans your movies, fetches data from IMDB or Rottentomaties and stores important data locally:
 
-* Date of release
-* Oscar Nominations
-* First 4 billed actors
-* Themes (Horror, Comedy, Noir)
-* IMDB / RT Ratings
-* Plot Summery
-* and whatsoever you like
+  * Date of release
+  * Oscar Nominations
+  * First 4 billed actors
+  * Themes (Horror, Comedy, Noir)
+  * IMDB / RT Ratings
+  * Plot Summery
+  * and whatsoever you like
 
 = Why do I need this? =
 
